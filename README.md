@@ -1,7 +1,7 @@
 <H3>AKASH CT</H3>
 <H3>212224240007</H3>
-<H3>Date</H3>
-<H3>Experiment No. 2 </H3
+<H3>Date 14/2/2026</H3/>
+<H3>Experiment/ No. 2 </H3
                       
 ## Implementation of Perceptron for Binary Classification
 
